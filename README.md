@@ -1,7 +1,7 @@
 # BOMOS
 
-[Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Aanvullende-Modules/index.html)
+Dit document is gesplitst in twee afzonderlijke documenten.
+Een module per document. Beide modules worden beheerd in een eigen repository.
 
-[Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Aanvullende-Modules/snapshot.html)
-
-[PDF versie](https://logius-standaarden.github.io/BOMOS-Aanvullende-Modules/BOMOS-Aanvullende-modules.pdf)
+- [Linked data module](https://github.com/Logius-standaarden/BOMOS-LinkedData)
+- [Stelsels](https://github.com/Logius-standaarden/BOMOS-Stelsels)
